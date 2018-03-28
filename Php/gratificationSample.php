@@ -1,11 +1,5 @@
 <?php
-/**
- * Created by IntelliJ IDEA.
- * User: radhey
- * Date: 27/6/14
- * Time: 11:42 AM
 
- */
 require 'lib/encdec_paytm.php';
 require 'lib/encdec_paytm.php';
 
